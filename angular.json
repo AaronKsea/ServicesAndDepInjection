@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ServicesAndDepInjection"
+    }
+  },
+  "defaultProject": "ServicesAndDepInjection",
+  "cli": {
+    "analytics": "91502653-1a02-4844-a3e2-7829fa71baba"
+  }
 }
